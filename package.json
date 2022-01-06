@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "Developer": "Prabhat",
-  "You-tut": "https://youtu.be/lbLwWit41kw",
+  "You-tut-some-help": "https://youtu.be/lbLwWit41kw",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
